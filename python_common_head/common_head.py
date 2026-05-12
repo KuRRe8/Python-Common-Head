@@ -1,5 +1,5 @@
 '''
-Usage: from common_head import *
+Usage: from python_common_head import *
 
 Since I don't want to expose everything from imported modules, I will set __all__
 '''

@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python-common-head"
+name = "python_common_head"
 version = "0.1.0"
 description = "Utility helpers for common Python workflows"
 readme = "README.md"
