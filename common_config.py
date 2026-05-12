@@ -1,19 +1,6 @@
-NEED_LOGGER = True
-LOGGER_LVL = 20
+"""Compatibility shim for legacy imports.
+
+Prefer: from python_common_head.common_config import *
 """
-CRITICAL = 50
-FATAL = CRITICAL
-ERROR = 40
-WARNING = 30
-WARN = WARNING
-INFO = 20
-DEBUG = 10
-NOTSET = 0 
-"""
-LOGGER_PATH = None
-NEED_TIMER_CONTEXT = True
-NEED_CLASSONLYMETHOD = True
-NEED_MS_SINGLETON = False
-NEED_MY_SINGLETON = True
-NEED_TERMINAL_CTRL = False
-NEED_TRAINING_DETERMINISTIC = True
+
+from python_common_head.common_config import *
