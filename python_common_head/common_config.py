@@ -1,4 +1,4 @@
-NEED_LOGGER = True
+NEED_LOGGER = False
 LOGGER_LVL = 20
 """
 CRITICAL = 50
