@@ -4,14 +4,11 @@ A utility package for daily Python usage.
 
 ## Install
 
+> [!TIP]
+> It's not compulsary to install the package. You can use it directly. Just copy the subfolder to your project.
+
 ```bash
 pip install .
-```
-
-For editable development install:
-
-```bash
-pip install -e .
 ```
 
 ## Usage
