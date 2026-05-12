@@ -20,10 +20,4 @@ pip install -e .
 from python_common_head import *
 ```
 
-Legacy import style is still supported for compatibility:
-
-```python
-from common_head import *
-```
-
 The file [try_head_file.py](try_head_file.py) can be used to detect what has been imported.
