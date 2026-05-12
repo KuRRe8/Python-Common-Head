@@ -74,8 +74,6 @@ if NEED_CLASSONLYMETHOD:
             return super(classonlymethod, self).__get__(instance, cls)
 
 if NEED_MS_SINGLETON:
-    import functools
-    import threading
     class Singleton(object):
         """A base class for a class of a singleton object.
 
