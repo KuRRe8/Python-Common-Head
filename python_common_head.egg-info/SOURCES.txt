@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-python_common_head/__init__.py
-python_common_head/common_config.py
-python_common_head/common_head.py
-python_common_head.egg-info/PKG-INFO
-python_common_head.egg-info/SOURCES.txt
-python_common_head.egg-info/dependency_links.txt
-python_common_head.egg-info/top_level.txt
